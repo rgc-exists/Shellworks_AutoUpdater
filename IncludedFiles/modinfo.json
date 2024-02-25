@@ -1,0 +1,6 @@
+{
+	"modName":"Shellworks_AutoUpdater",
+	"authors":["RGC Exists"],
+	"description":"The Shellworks automatic updater.",
+	"priority": -9999
+}

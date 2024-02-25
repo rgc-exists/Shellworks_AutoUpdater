@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>Shellworks_AutoUpdater\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UndertaleModLib, Culture=neutral, PublicKeyToken=null">
+      <HintPath>.\UndertaleModLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+    <Target Name="CopyIncludes" AfterTargets="AfterBuild">
+	    <ItemGroup>
+		    <Assets Include="IncludedFiles/**/*.*" />
+	    </ItemGroup>
+	    <Copy SourceFiles="@(Assets)" DestinationFolder="$(TargetDir)/%(RecursiveDir)" SkipUnchangedFiles="false" />
+    </Target>
+</Project>

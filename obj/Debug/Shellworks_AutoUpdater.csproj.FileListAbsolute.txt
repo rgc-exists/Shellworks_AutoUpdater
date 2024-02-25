@@ -1,0 +1,15 @@
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\Shellworks_AutoUpdater\Shellworks_AutoUpdater.deps.json
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\Shellworks_AutoUpdater\Shellworks_AutoUpdater.dll
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\Shellworks_AutoUpdater\Shellworks_AutoUpdater.pdb
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.csproj.AssemblyReference.cache
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.AssemblyInfoInputs.cache
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.AssemblyInfo.cs
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.csproj.CoreCompileInputs.cache
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.dll
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\refint\Shellworks_AutoUpdater.dll
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.pdb
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\ref\Shellworks_AutoUpdater.dll
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\Shellworks_AutoUpdater\Newtonsoft.Json.dll
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\Shellworks_AutoUpdater\Newtonsoft.Json.xml
+C:\Users\rando\source\repos\Shellworks_AutoUpdater\obj\Debug\Shellworks_AutoUpdater.csproj.CopyComplete
