@@ -58,6 +58,7 @@ public class Updater {
     static void LaunchGame(){
         var process = new System.Diagnostics.Process();
         process.StartInfo.FileName = Path.Combine(wysPath, "Will You Snail.exe");
+        process.StartInfo.Arguments = "-gmsl_console";
         process.Start();
         Environment.Exit(0);
     }
