@@ -1,0 +1,15 @@
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\bin\Debug\net8.0\UpdaterExe.exe
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\bin\Debug\net8.0\UpdaterExe.deps.json
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\bin\Debug\net8.0\UpdaterExe.runtimeconfig.json
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\bin\Debug\net8.0\UpdaterExe.dll
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\bin\Debug\net8.0\UpdaterExe.pdb
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.AssemblyInfoInputs.cache
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.AssemblyInfo.cs
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.csproj.CoreCompileInputs.cache
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.sourcelink.json
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.dll
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\refint\UpdaterExe.dll
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.pdb
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\UpdaterExe.genruntimeconfig.cache
+C:\Users\rando\OneDrive\Documents\Shellworks_AutoUpdater\UpdaterExe\obj\Debug\net8.0\ref\UpdaterExe.dll
