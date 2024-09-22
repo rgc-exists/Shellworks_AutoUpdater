@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpdaterExe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac3e928a722d337fd287c5bde46262ede5aef576")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4933ead1529eb9d583fe0a343ee8adf525fc516a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpdaterExe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpdaterExe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

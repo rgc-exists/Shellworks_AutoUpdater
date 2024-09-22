@@ -11,6 +11,7 @@ public class Updater
     private static string shellworksDirectory = "";
     private static string shellworks_modName = "Shellworks";
     private static string wysPath = "";
+    private static string appDataDirectory = "";
 
     public static bool requiresNet8 = false;
     static void Main(string[] args)
@@ -19,6 +20,7 @@ public class Updater
         Console.WriteLine("Updating shellworks...");
 
         shellworksDirectory = Path.Combine(wysPath, "gmsl", "mods", shellworks_modName);
+        appDataDirectory = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Will_You_Snail");
 
         client.DefaultRequestHeaders.Add("Accept", "application/vnd.github+json");
         client.DefaultRequestHeaders.Add("User-Agent", "Shellworks updater");
@@ -53,6 +55,10 @@ public class Updater
         if (File.Exists(Path.Combine(shellworksDirectory, "needsToBeUpdated.txt")))
         {
             File.Delete(Path.Combine(shellworksDirectory, "needsToBeUpdated.txt"));
+        }
+        if (File.Exists(Path.Combine(appDataDirectory, "Shellworks_Cache", "needsToBeUpdated.txt")))
+        {
+            File.Delete(Path.Combine(appDataDirectory, "Shellworks_Cache", "needsToBeUpdated.txt"));
         }
 
         System.IO.Compression.ZipFile.ExtractToDirectory(shellworksZip, extracted, true);
